@@ -3,7 +3,7 @@
     "version": "4c808089-alpha",
     "versionCode": "24102",
     "link": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@611e13bb8a1c4175320cc04d7dd72de6f56f0082/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@a3814f8774d4f6570b5f62e2402db2d9cc178362/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "25",
