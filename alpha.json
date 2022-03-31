@@ -1,7 +1,7 @@
 {
   "magisk": {
-    "version": "b1faa5ee-alpha",
-    "versionCode": "24304",
+    "version": "98874be1-alpha",
+    "versionCode": "24305",
     "link": "app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@b03fdcb14dc0e7ec88e98ac3dd769d96ab01c1e2/app/src/main/res/raw/changelog.md"
   },
