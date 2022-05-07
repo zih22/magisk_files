@@ -6,7 +6,7 @@
     "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@b03fdcb14dc0e7ec88e98ac3dd769d96ab01c1e2/app/src/main/res/raw/changelog.md"
   },
   "stub": {
-    "versionCode": "27",
+    "versionCode": "28",
     "link": "stub-release.apk"
   }
 }
